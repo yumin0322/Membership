@@ -1,6 +1,8 @@
 프로그램 목표 : 헬스장 회원 관리, 회원 조회/수정/삭제/등록/저장 기능을 이중연결리스트(자료구조)를 통해 구현한다.
 
 <실행 결과>
+
+
 ![1](https://user-images.githubusercontent.com/100817654/157179718-a206626d-9a2f-4da1-a606-526d000715ec.png)
 ![2](https://user-images.githubusercontent.com/100817654/157179720-dd581cf5-a785-420e-97f2-2c1c8013c2ad.png)
 ![3](https://user-images.githubusercontent.com/100817654/157179729-57d7a98f-b19f-4fb5-bf53-b18cb49dbe61.png)
